@@ -19,9 +19,9 @@
 }
 
 .portfolio-testimonials-section-img {
-    width: 60px !important;
-    height: 60px !important;
-    border-radius: 50% !important;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
 }
 
 .portfolio-testimonials-section-img-container {}
