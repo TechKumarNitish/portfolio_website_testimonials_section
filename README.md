@@ -7,7 +7,7 @@ To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/TechKumarNitish/SimpleIncrementAndDecrementApp_REACTJS_Html_tailwindCss.git
+    https://github.com/TechKumarNitish/portfolio_website_testimonials_section.git
     ```
 
 1. open index.html with chrome or any web browser
