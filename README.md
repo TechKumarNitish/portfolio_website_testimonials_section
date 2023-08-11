@@ -1,5 +1,5 @@
-# Footer Section of Portfolio Web Page
-This is simple footer section of  portfolio web page build  with Bootstrap CSS configured and HTML. It uses Bootstrap CSS version **4.5**.
+# Testimonial Section of Portfolio Web Page
+This is simple Testimonial section of  portfolio web page build  with Bootstrap CSS configured and HTML. It uses Bootstrap CSS version **4.5**.
 
 ## Usage
 
